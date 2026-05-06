@@ -16,13 +16,15 @@ Simple Python task manager.
 
 ###  Project 2 – Collaboration Project
 Python group project with data analysis.
+Complexity
+Risk dashboard
 
  Code: https://github.com/YOUR_USERNAME/python-collaboration-project
 
 ---
 
 ### 🔵 Project 3 – Coming Soon
-API / automation project
+Risk blueprint/API / automation project
 
 ---
 
