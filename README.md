@@ -7,7 +7,7 @@ Welcome to my developer portfolio.
 
 ##  Projects
 
-###  Project 1 –  Tracker
+###  Project 1 –  Agile-Velocity-Analyzer
 Simple Python task manager.
 
  Code: https://github.com/YOUR_USERNAME/project_tracker
@@ -23,7 +23,7 @@ Risk dashboard
 
 ---
 
-### 🔵 Project 3 – Risk blueprint
+### 🔵 Project 3 – OOP-Risk-Assessment-Matrix
 Risk blueprint/API / automation project
 
 ---
