@@ -28,5 +28,5 @@ Risk blueprint/API / automation project
 
 ---
 
-### ☁️ Project4-ML-Hyperparameter-Tuning
+### ☁️ Project4-Machine-learning-labs
 
