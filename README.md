@@ -29,4 +29,5 @@ Risk blueprint/API / automation project
 ---
 
 ### ☁️ Project4-Machine-learning-labs
+New plans are uploading in next days.12.10.2026
 
