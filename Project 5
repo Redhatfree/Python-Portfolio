@@ -1,0 +1,10 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+
+risks = {
+    "Risk": ["Cost", "Delay", "Safety", "Quality", "Weather"],
+    "Probability": [0.7, 0.8, 0.3, 0.5, 0.6],
+    "Impact": [8, 9, 10, 6, 4]
+}
+
+df = pd.DataFrame(risks)
